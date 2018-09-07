@@ -13,6 +13,8 @@ Será utilizado toda a estrutura em java/android studio, além das estruturas da
 Em uma primeira instância, será desenvolvido um projeto reduzido do que está sendo apresentado. Contudo, estará sendo criado inicialmente para cães e gatos.
 
 ## Artigo da área
+http://dvillela.dlinkddns.com:4000/apostilas/arduino.pdf
+
 "Desde que o Arduino Project teve início em 2005, mais de 150.000 placas Arduino
 foram vendidas em todo o mundo. O número de placas-clone não oficiais sem dúvida
 supera o de placas oficiais, assim, é provável que mais de 500 mil placas Arduino e
